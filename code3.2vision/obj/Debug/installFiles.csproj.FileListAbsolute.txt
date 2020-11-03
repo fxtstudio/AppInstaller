@@ -1,0 +1,12 @@
+D:\File\Code文件\installFiles\bin\Debug\installFiles.exe.config
+D:\File\Code文件\installFiles\bin\Debug\installFiles.exe
+D:\File\Code文件\installFiles\bin\Debug\installFiles.pdb
+D:\File\Code文件\installFiles\obj\Debug\installFiles.csprojAssemblyReference.cache
+D:\File\Code文件\installFiles\obj\Debug\installFiles.Form1.resources
+D:\File\Code文件\installFiles\obj\Debug\installFiles.Properties.Resources.resources
+D:\File\Code文件\installFiles\obj\Debug\installFiles.csproj.GenerateResource.cache
+D:\File\Code文件\installFiles\obj\Debug\installFiles.csproj.CoreCompileInputs.cache
+D:\File\Code文件\installFiles\obj\Debug\installFiles.exe
+D:\File\Code文件\installFiles\obj\Debug\installFiles.pdb
+D:\File\Code文件\installFiles\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\File\Code文件\installFiles\obj\Debug\installFiles.csproj.ResolveComReference.cache

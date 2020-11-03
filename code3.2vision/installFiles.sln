@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "installFiles", "installFiles.csproj", "{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Debug|x64.Build.0 = Debug|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Release|x64.ActiveCfg = Release|x64
+		{97C821B5-2B4D-4DE1-A94B-44BB6821ECB6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DF2886-1ADA-433C-8B8B-098F1878EF5B}
+	EndGlobalSection
+EndGlobal
